@@ -1,7 +1,8 @@
 '''
 Academic Standing
-1/8/2023
-Python I
+Pawelski
+10/15/2023
+Introduction to Computer Science
 
 Instructions:
 Let’s look at an example involving multiple
