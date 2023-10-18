@@ -12,7 +12,7 @@ on the last two programs, when should you use and?
 When should you use or? 
 
 Modify the program so that Mr. Hoff is part of the
-staff directory. YOu should be able to enter his
+staff directory. You should be able to enter his
 entry by using the values "Hoff", "Michael Hoff",
 and "Mr. Hoff".
 
