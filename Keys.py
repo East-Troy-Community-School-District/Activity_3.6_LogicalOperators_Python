@@ -16,8 +16,8 @@ role gets a key.
 
 role = input("What is your role?")
 if role == "teacher" or role == "administrator":
-  print("You get a key!")
+    print("You get a key!")
 elif role == "student":
-  print("You don't get a key.")
+    print("You don't get a key.")
 else:
-  print("Invalid role.")
+    print("Invalid role.")
