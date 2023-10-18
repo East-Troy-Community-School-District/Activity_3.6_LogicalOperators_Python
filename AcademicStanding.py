@@ -25,6 +25,6 @@ the ors before the ands.
 grade = input("What is your current grade? (A, B, C, D, or F) >> ")
 absences = int(input("How many times have you been absent? >> "))
 if (grade == "A" or grade == "B" or grade == "C" or grade == "D") and absences <= 2:
-  print("You are in good standing!")
+    print("You are in good standing!")
 else:
-  print("You are in bad standing!")
+    print("You are in bad standing!")
